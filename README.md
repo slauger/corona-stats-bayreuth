@@ -46,7 +46,7 @@
 ### print all entries on the first page
 
 ```
--bash$ ./corona-bt.py | jq
+-bash$ ./corona-bt.py -a | jq
 ```
 
 ## jq examples
