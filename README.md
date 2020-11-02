@@ -49,7 +49,7 @@
 -bash$ ./corona-bt.py -a | jq
 ```
 
-## jq examples
+### jq examples
 
 ```
 ./corona-bt.py | jq .[0].inzidenz.land

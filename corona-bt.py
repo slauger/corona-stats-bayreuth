@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Corona Data Extrator for landkreis-bayreuth.de
+# Corona Data Extractor for landkreis-bayreuth.de
 
 import re
 import json
