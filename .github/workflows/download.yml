@@ -1,5 +1,8 @@
 name: Download
 on:
+  push:
+    branches:
+      - master
   schedule:
     - cron:  '30 10 * * *'
 
