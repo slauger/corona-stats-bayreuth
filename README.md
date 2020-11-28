@@ -6,7 +6,7 @@ Der Landkreis Bayreuth veröffentlicht unter [landkreis-bayreuth.de](https://www
 
 Dieses Projekt dient dazu die Rohdaten zu sammeln und Scripte bereitzustellen, mit denen die Daten wieder in Datenbanken für Statistiken, Visualisierungen oder für Apps genutzt werden können.
 
-![Grafana](grafana.jpg)
+![Grafana](grafana.png)
 
 ## Daten aus dem PDF extrahieren
 
