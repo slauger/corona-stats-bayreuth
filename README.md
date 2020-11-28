@@ -6,9 +6,11 @@ Der Landkreis Bayreuth veröffentlicht unter [landkreis-bayreuth.de](https://www
 
 Dieses Projekt dient dazu die Rohdaten zu sammeln und Scripte bereitzustellen, mit denen die Daten wieder in Datenbanken für Statistiken, Visualisierungen oder für Apps genutzt werden können.
 
+![Grafana](grafana.jpg)
+
 ## Daten aus dem PDF extrahieren
 
-Täglich wird ein PDF mit Fallzahlen veröffentlicht ([https://www.landkreis-bayreuth.de/media/8891/tabelle_gemeinden_covid.pdf](tabelle_gemeinden_covid.pdf)). Dieses PDF bietet unter anderem eine Aufschlüsselung nach Gemeinden.
+Täglich wird ein PDF mit Fallzahlen veröffentlicht ([tabelle_gemeinden_covid.pdf](https://www.landkreis-bayreuth.de/media/8891/tabelle_gemeinden_covid.pdf)). Dieses PDF bietet unter anderem eine Aufschlüsselung nach Gemeinden.
 
 Eine GitHub Action sammelt diese Daten und legt das letzte PDF im Verzeichnis `raw` ab.
 
