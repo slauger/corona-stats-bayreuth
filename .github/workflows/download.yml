@@ -21,7 +21,7 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v5
         with:
-          author_name: Corona Bot Bayureth
+          author_name: Corona Bot
           author_email: corona-bot@localhost.localdomain
           message: "daily auto update"
           add: "raw/*"
